@@ -1,4 +1,14 @@
-This is your new Play application
+Flight app
 =================================
 
 This file will be packaged with your application, when using `activator dist`.
+
+domains
+------------
+
+```
+Airline.scala	
+Airplane.scala	
+Airport.scala	
+Flight.scala
+```

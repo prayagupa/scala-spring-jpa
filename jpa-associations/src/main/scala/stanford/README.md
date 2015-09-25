@@ -1,0 +1,2 @@
+ @ManyToMany bi-directional
+---------------------------------

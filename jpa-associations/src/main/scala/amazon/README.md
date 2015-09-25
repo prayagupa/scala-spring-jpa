@@ -1,0 +1,2 @@
+@ManyToOne one directional
+-------------------------------
